@@ -11,4 +11,4 @@
 
 ## O que pretendo com a programação?
 - Trabalhar
-- inspirar outras pessoas
+- Inspirar outras pessoas
