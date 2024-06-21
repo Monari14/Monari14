@@ -2,8 +2,7 @@
 # Felipe Eduardo Monari
 
 ## Informações
-16 anos
-Cursando Técnico em Desenvolvimento de Sistemas
+16 anos \n Cursando Técnico em Desenvolvimento de Sistemas
 
 ## Linguagens que mais utilizo
 - PHP 🐘
