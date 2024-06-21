@@ -9,5 +9,6 @@
 - PHP 🐘
 - JAVA ☕
 
-## O que pretendo com a programação
-Trabalhar e inspirar outras pessoas.
+## O que pretendo com a programação?
+- Trabalhar
+- inspirar outras pessoas
