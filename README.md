@@ -2,7 +2,7 @@
 # Felipe Eduardo Monari
 
 ## Informações
-- 16 anos
+- 17 anos
 - Cursando Técnico em Desenvolvimento de Sistemas
 - RSTI2023 - Concluído
 
