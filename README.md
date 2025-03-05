@@ -1,12 +1,22 @@
 
 # Felipe Eduardo Monari
 
-## Informações
+### ℹ️ Informações
 - 17 anos
 - Cursando Técnico em Desenvolvimento de Sistemas
 - RSTI2023 - Concluído
 
+##
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Monari14&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Monari14&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  
+   ![Monari14](https://github-readme-stats.vercel.app/api?username=Monari14&include_all_commits=true&theme=dark&show_icons=true&rank_icon=github&prs_merged_percentage)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Monari14&layout=compact&theme=dark)](https://github.com/Monari14/github-readme-stats)
+</div>
+
+## 📂 Meus projetos
+<div align="center">
+
+   [![niXZan - List](https://github-readme-stats.vercel.app/api/pin/?username=Monari14&repo=niXZan-List&theme=dark)](https://github.com/Monari14/niXZan-List)
+   [![niXZan - Financeiro](https://github-readme-stats.vercel.app/api/pin/?username=Monari14&repo=niXZan-Financeiro&theme=dark)](https://github.com/Monari14/niXZan-Financeiro)
+   [![Hotelhub](https://github-readme-stats.vercel.app/api/pin/?username=Com-KT-NEY-s&repo=HotelHub&theme=dark)](https://github.com/Com-KT-NEY-s/HotelHub)
 </div>
