@@ -9,8 +9,8 @@
 ##
 <div align="center">
   
-   ![Monari14](https://github-readme-stats.vercel.app/api?username=Monari14&include_all_commits=true&theme=dark&show_icons=true&rank_icon=github&prs_merged_percentage)
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Monari14&layout=compact&theme=dark)](https://github.com/Monari14/github-readme-stats)
+   ![Status](https://github-readme-stats.vercel.app/api?username=Monari14&include_all_commits=true&theme=dark&show_icons=true&rank_icon=github&prs_merged_percentage)
+   [![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Monari14&layout=compact&theme=dark)](https://github.com/Monari14/github-readme-stats)
 </div>
 
 ## 📂 Meus projetos
