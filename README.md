@@ -16,7 +16,7 @@
 ## 📂 Meus projetos
 <div align="center">
 
-   [![niXZan - List](https://github-readme-stats.vercel.app/api/pin/?username=Monari14&repo=niXZan-List&theme=dark)](https://github.com/Monari14/niXZan-List)
-   [![niXZan - Financeiro](https://github-readme-stats.vercel.app/api/pin/?username=Monari14&repo=niXZan-Financeiro&theme=dark)](https://github.com/Monari14/niXZan-Financeiro)
-   [![Hotelhub](https://github-readme-stats.vercel.app/api/pin/?username=Com-KT-NEY-s&repo=HotelHub&theme=dark)](https://github.com/Com-KT-NEY-s/HotelHub)
+   [![ niXZan - List ](https://github-readme-stats.vercel.app/api/pin/?username=Monari14&repo=niXZan-List&theme=dark)](https://github.com/Monari14/niXZan-List)
+   [![ niXZan - Financeiro ](https://github-readme-stats.vercel.app/api/pin/?username=Monari14&repo=niXZan-Financeiro&theme=dark)](https://github.com/Monari14/niXZan-Financeiro)
+   [![ Hotelhub ](https://github-readme-stats.vercel.app/api/pin/?username=Com-KT-NEY-s&repo=HotelHub&theme=dark)](https://github.com/Com-KT-NEY-s/HotelHub)
 </div>
